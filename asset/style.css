@@ -1,6 +1,9 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-color: #06aed5;
+  background-size: auto;
+  
 }
 
 textarea {
@@ -50,7 +53,7 @@ textarea {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
-  color: white;
+  color: rgb(22, 21, 21);
 }
 
 .saveBtn i:hover {
